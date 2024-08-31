@@ -30,7 +30,7 @@ Neste jogo, você controla um personagem que se move em um labirinto. O objetivo
 
 ### Pré-requisitos
 
-- **gcc** (ou outro compilador C)
+- **cc** (ou outro compilador C)
 - **make**
 - **MiniLibX** (mlx)
 - **X11** (para sistemas baseados em Unix)
