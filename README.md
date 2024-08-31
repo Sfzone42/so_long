@@ -40,7 +40,7 @@ Neste jogo, você controla um personagem que se move em um labirinto. O objetivo
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/SFzone42/so_long.git
+    git clone https://github.com/lhabacuc/so_long.git
     cd so_long
     ```
 
@@ -84,7 +84,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- **GitHub**: [SFzone42](https://github.com/Sfzone42)
+- **GitHub**: [lhabacuc](https://github.com/lhabacuc)
 - **Email**: liedsonnhabacuc@gmail.com
 
 ---
