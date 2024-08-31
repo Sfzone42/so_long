@@ -40,7 +40,7 @@ Neste jogo, você controla um personagem que se move em um labirinto. O objetivo
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/usuario/so_long.git
+    git clone https://github.com/SFzone42/so_long.git
     cd so_long
     ```
 
