@@ -1,4 +1,11 @@
 
+    ███████  ██████          ██       ██████  ███    ██  ██████  
+    ██      ██    ██         ██      ██    ██ ████   ██ ██       
+    ███████ ██    ██         ██      ██    ██ ██ ██  ██ ██   ███ 
+         ██ ██    ██         ██      ██    ██ ██  ██ ██ ██    ██ 
+    ███████  ██████  ███████ ███████  ██████  ██   ████  ██████  
+                                                            
+
 # so_long
 
 **so_long** é um projeto desenvolvido como parte do currículo da 42. O objetivo deste projeto é criar um jogo 2D simples usando a biblioteca gráfica `mlx` (MiniLibX). O jogo envolve um personagem que deve percorrer um mapa coletando todos os itens e chegando à saída para vencer.
